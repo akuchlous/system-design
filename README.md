@@ -1,4 +1,4 @@
-Here's the 60-day system design course outline with relevant links and articles:
+3 Month System design Course (4 sections a week,  16 sections a month, 48 sections overall)
 
 **Day 1-2: Introduction to System Design**
 - Overview of system design concepts
@@ -176,40 +176,3 @@ Here's the 60-day system design course outline with relevant links and articles:
 - Business continuity planning
 - Real-life example: Disaster recovery strategies at Amazon
   - Article: [AWS Disaster Recovery Whitepaper](https://d1.awsstatic.com/whitepapers/aws-disaster-recovery.pdf)
-
-**Day 49-50: Compliance and Regulations**
-- Understanding compliance requirements
-- GDPR, HIPAA, and other regulations
-- Designing systems with compliance in mind
-- Real-life example: Compliance considerations at Microsoft Azure
-  - Documentation: [Microsoft Azure Compliance Offerings](https://azure.microsoft.com/en-us/overview/trusted-cloud/compliance/)
-
-**Day 51-52: Cost Optimization**
-- Techniques for optimizing system costs
-- Cloud cost management
-- Resource utilization optimization
-- Real-life example: Cost optimization practices at Google Cloud
-  - Article: [Google Cloud Cost Optimization](https://cloud.google.com/solutions/cost-management)
-
-**Day 53-54: Case Studies**
-- Analyzing real-world system design case studies
-- Learning from successes and failures
-- Applying lessons to own system designs
-- Real-life example: Case studies from various tech giants
-  - Article: [Real-World Software Engineering Case Studies](https://www.codementor.io/blog/real-world-software-engineering-case-studies-1s2wvxc0fj)
-
-**Day 55-56: Project Work**
-- Working on a system design project
-- Applying concepts learned throughout the course
-- Getting feedback and refining designs
-
-**Day 57-58: Project Work (continued)**
-- Continuing work on the system design project
-- Implementing feedback and making improvements
-
-**Day 59-60: Project Presentations and Review**
-- Presenting the system design projects
-- Discussing design decisions and trade-offs
-- Celebrating completion of the course
-
-These resources provide a comprehensive overview of system design principles, along with real-life examples and relevant articles and documentation to deepen your understanding.
