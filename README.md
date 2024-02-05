@@ -1,4 +1,4 @@
-Certainly! Here's the 60-day system design course outline with relevant links and articles:
+Here's the 60-day system design course outline with relevant links and articles:
 
 **Day 1-2: Introduction to System Design**
 - Overview of system design concepts
